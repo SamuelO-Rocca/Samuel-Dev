@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Samuel!
+# 👋 Olá, eu sou o Samuel Rocca!
 
 🎓 Estudante de Sistemas de Informação e profissional atuante na área de TI.  
 💡 Foco em infraestrutura, automação de processos, suporte técnico e desenvolvimento de soluções eficientes.
